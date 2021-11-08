@@ -91,7 +91,7 @@ while continuar == 'S':
             if trapaca > 3:
                 print()
                 print('ATENÇÃO')
-                print('Pela númerosa tentativa de trapaça, você sofrerá uma penalidade!')
+                print('Pelas númerosas tentativas de trapaça, você sofrerá uma penalidade!')
                 print('\033[35mFoi retirada mais uma chance dos seus créditos.\033[m')
                 chances -= 1
             continue
